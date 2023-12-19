@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What are my core values and how did I honor them today?",
+        "category": "Growth"
+    },
+    {
+        "question": "What strengths did I utilize today?",
+        "category": "Growth"
+    },
+    {
+        "question": "In what areas do I feel I need to grow, and what steps can I take to achieve that growth?",
+        "category": "Growth"
+    },
+    {
+        "question": "What emotions did I experience today, and what triggered them?",
+        "category": "Emotions"
+    },
+    {
+        "question": "How did I handle my emotions, and what could I have done differently?",
+        "category": "Emotions"
+    },
+    {
+        "question": "What lessons did my emotions teach me today?",
+        "category": "Emotions"
+    },
+    {
+        "question": "What accomplishments am I proud of in my career so far?",
+        "category": "Career"
+    },
+    {
+        "question": "What challenges am I facing at work, and what strategies can I employ to overcome them?",
+        "category": "Career"
+    },
+    {
+        "question": "How do my professional goals align with my personal values?",
+        "category": "Career"
+    },
+    {
+        "question": "How did I contribute to my relationships today?",
+        "category": "Relationships"
+    },
+    {
+        "question": "Were there any conflicts, and how did I handle them?",
+        "category": "Relationships"
+    },
+    {
+        "question": "What can I do to strengthen my relationships with others?",
+        "category": "Relationships"
+    },
+    {
+        "question": "What did I do today to take care of my physical and mental health?",
+        "category": "Wellbeing"
+    },
+    {
+        "question": "How does my current lifestyle support my overall well-being?",
+        "category": "Wellbeing"
+    },
+    {
+        "question": "What changes can I make to improve my health and happiness?",
+        "category": "Wellbeing"
+    },
+    {
+        "question": "What are my short-term and long-term goals?",
+        "category": "Goals"
+    },
+    {
+        "question": "What progress have I made towards these goals?",
+        "category": "Goals"
+    },
+    {
+        "question": "What obstacles are preventing me from reaching my goals, and how can I overcome them?",
+        "category": "Goals"
+    },
+    {
+        "question": "What new things did I learn today?",
+        "category": "Learning"
+    },
+    {
+        "question": "How have my recent experiences contributed to my knowledge and skills?",
+        "category": "Learning"
+    },
+    {
+        "question": "What areas am I curious about and want to explore further?",
+        "category": "Learning"
+    },
+    {
+        "question": "What am I grateful for today?",
+        "category": "Gratitude"
+    },
+    {
+        "question": "What positive experiences did I have today?",
+        "category": "Gratitude"
+    },
+    {
+        "question": "How can I cultivate a more positive mindset?",
+        "category": "Gratitude"
+    },
+    {
+        "question": "What important decisions did I make today, and how did I arrive at them?",
+        "category": "Decisions"
+    },
+    {
+        "question": "What problems did I encounter, and how did I solve them?",
+        "category": "Decisions"
+    },
+    {
+        "question": "How can I improve my decision-making and problem-solving skills?",
+        "category": "Decisions"
+    },
+    {
+        "question": "In what ways was I creative today?",
+        "category": "Creativity"
+    },
+    {
+        "question": "How can I foster more creativity in my life?",
+        "category": "Creativity"
+    },
+    {
+        "question": "What new ideas or projects am I excited about?",
+        "category": "Creativity"
+    }
+]
