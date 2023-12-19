@@ -1,11 +1,11 @@
 import { App } from "obsidian";
 import { getRandomQuote } from "./getRandomQuote";
 import { createNewJournalFile } from "./createNewJournalFile";
-import { getRandomJournalQuestion } from "./getRandomJournalQuestion"; // Import the utility function
+import { getRandomJournalQuestion } from "./getRandomJournalQuestion";
 
 export async function eveningJournal(app: App) {
     const quote = await getRandomQuote();
-    const randomQuestion = getRandomJournalQuestion(); // Get a random question
+    const randomQuestion = getRandomJournalQuestion();
 
     const journalContent = `
 > "${quote.text}" - ${quote.author}
@@ -22,10 +22,10 @@ export async function eveningJournal(app: App) {
 -
 
 ## What emotions am I feeling right now that I can acknowledge and then release?
-- 
+-
 
 ## What is one thing I am looking forward to tomorrow?
-- 
+-
 
 ## ${randomQuestion}
 -

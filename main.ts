@@ -6,8 +6,8 @@ import {
 	// Notice,
 	// TextComponent,
 } from "obsidian";
-import { morningJournal } from "utils/morningJournal"; // Adjust the path as necessary
-import { eveningJournal } from "utils/eveningJournal"; // Adjust the path as necessary
+import { morningJournal } from "utils/morningJournal"; 
+import { eveningJournal } from "utils/eveningJournal";
 import { calmWorries } from "utils/calmWorries";
 import { weeklyWrap } from "utils/weeklyWrap";
 
@@ -16,26 +16,22 @@ export default class ExamplePlugin extends Plugin {
 		this.addRibbonIcon("dice", "Open menu", (mainEvent) => {
 			const menu = new Menu();
 
-			// Store the main menu's position using const
 			const mainMenuX = mainEvent.clientX;
 			const mainMenuY = mainEvent.clientY;
 
-			// Journal Prompts with Submenu
 			menu.addItem((item) => {
 				item.setTitle("Journal Prompts")
 					.setIcon("pencil")
 					.onClick((evt) => {
-						// Prevent the main menu from closing
 						evt.preventDefault();
 
-						// Create and display a submenu
 						const submenu = new Menu();
 						submenu.addItem((subItem) => {
 							subItem.setTitle("Morning Journal").onClick(() => {
 								morningJournal(this.app);
 							});
 						});
-						// Add more submenu items here if needed
+						
 						submenu.addItem((subItem) => {
 							subItem.setTitle("Evening Journal").onClick(() => {
 								eveningJournal(this.app);
@@ -55,7 +51,6 @@ export default class ExamplePlugin extends Plugin {
 						});
 
 
-						// Show the submenu at the same position as the main menu
 						submenu.showAtPosition({ x: mainMenuX, y: mainMenuY });
 					});
 			});

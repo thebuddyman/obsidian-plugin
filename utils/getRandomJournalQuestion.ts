@@ -1,4 +1,4 @@
-import random_questions from '../data/random_questions.json'; // Adjust the path as necessary
+import random_questions from '../data/random_questions.json';
 
 export function getRandomJournalQuestion(category?: string) {
     let questions = random_questions;

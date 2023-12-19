@@ -1,11 +1,11 @@
 import { App } from "obsidian";
-import { getRandomQuote } from "./getRandomQuote"; // Adjust the path as necessary
-import { createNewJournalFile } from "./createNewJournalFile"; // Import the utility function
-import { getRandomJournalQuestion } from "./getRandomJournalQuestion"; // Import the utility function for random question
+import { getRandomQuote } from "./getRandomQuote"; 
+import { createNewJournalFile } from "./createNewJournalFile"; 
+import { getRandomJournalQuestion } from "./getRandomJournalQuestion"; 
 
 export async function weeklyWrap(app: App) {
-	const quote = await getRandomQuote(); // Assuming getRandomQuote is an async function
-	const randomQuestion = getRandomJournalQuestion(); // Get a random question
+	const quote = await getRandomQuote();
+	const randomQuestion = getRandomJournalQuestion(); 
 
 	const journalContent = `
 > "${quote.text}" - ${quote.author}

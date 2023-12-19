@@ -2,7 +2,7 @@ import { App, TFile } from "obsidian";
 
 export async function createNewJournalFile(app: App, baseTitle: string, content: string): Promise<string> {
     const date = new Date();
-    const formattedDate = date.toISOString().split("T")[0]; // YYYY-MM-DD
+    const formattedDate = date.toISOString().split("T")[0]; 
 
     let journalNumber = 1;
     let journalTitle = `${baseTitle} - ${formattedDate}`;

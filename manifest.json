@@ -10,7 +10,6 @@
 	  "url": "https://github.com/the-buddyman/reflective-journaling",
 	  "branch": "master"
 	},
-	"isDesktopOnly": false,
-	// "icon": "icon.svg"
+	"isDesktopOnly": false
   }
   
