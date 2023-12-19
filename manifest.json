@@ -1,11 +1,16 @@
 {
-	"id": "obsidian-example-plugin",
-	"name": "Journaling",
+	"id": "reflective-journaling",
+	"name": "Reflective Journaling",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "This is an example plugin for journaling in Obsidian",
+	"minAppVersion": "0.12.0",
+	"description": "A plugin for Obsidian that enhances journaling experience with morning and evening reflection prompts, along with random thought-provoking questions.",
 	"author": "Thomas Budiman",
-	"authorUrl": "https://flolu.de",
-	"fundingUrl": "https://flolu.de/donations",
-	"isDesktopOnly": false
-}
+	"authorUrl": "https://your-website.com",
+	"repository": {
+	  "url": "https://github.com/the-buddyman/reflective-journaling",
+	  "branch": "master"
+	},
+	"isDesktopOnly": false,
+	// "icon": "icon.svg"
+  }
+  

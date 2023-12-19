@@ -1,49 +1,51 @@
-<div align="center">
-  <h1>🪨 Obsidian Plugin Creation</h1>
-  <p>How to create your own Obsidian plugin</p>
-</div>
+# Reflective Journaling Plugin for Obsidian
 
-# About Obsidian
+Reflective Journaling is a plugin for [Obsidian](https://obsidian.md/) designed to enhance your daily journaling experience. This plugin provides a structured approach to reflective journaling, prompting you with thought-provoking questions to guide your writing, both in the morning and evening.
 
-- [Obsidian](https://obsidian.md) is a **note taking** app based on Markdown files
-- It's **extensible**
+## Features
 
-# About this plugin
+- **Morning Journal**: Start your day with gratitude and focus. Answer questions about your priorities, goals, and positive affirmations.
+- **Evening Journal**: Reflect on your day with guided questions that encourage introspection and learning.
+- **Random Reflection Prompts**: Receive random thought-provoking questions to enrich your journaling experience.
+- **Customization**: Tailor the journaling prompts to suit your personal reflection style.
 
-- Simple plugin, that counts the number of lines of the active file
-- The line count will be visible in the status bar
+## Installation
 
-# Resources
+1. Open Obsidian and go to `Settings`.
+2. Navigate to `Community Plugins`.
+3. Disable `Safe Mode`.
+4. Click `Browse` and search for "Reflective Journaling."
+5. Install the plugin and enable it.
 
-- Official [Obsidian Plugin Template](https://github.com/obsidianmd/obsidian-sample-plugin)
-- Unofficial [Obsidian Plugin Developer Docs](https://marcus.se.net/obsidian-plugin-docs)
+Alternatively, you can manually install the plugin by downloading it from the [GitHub repository](#) and placing it in your `.obsidian/plugins` directory.
 
-# Usage
+## Usage
 
-**Requirement**
+Once installed and enabled:
 
-- [Obsidian](https://obsidian.md)
-- [Git](https://git-scm.com)
-- [GitHub](https://github.com) account
-- [Node.js](https://nodejs.org)
-- Code Editor (I recommend [VSCode](https://code.visualstudio.com))
-- Basic [TypeScript](https://www.typescriptlang.org) knowledge
+- Click on the "Reflective Journaling" ribbon icon in Obsidian to start a new journal entry.
+- Choose between "Morning Journal" and "Evening Journal."
+- Answer the questions prompted in the template to begin your reflective journaling journey.
 
-**Installation**
+## Customization
 
-1. Open terminal
-2. `cd path/to/your/obsidian/vault/.obsidian/plugins`
-3. `git clone https://github.com/flolu/obsidian-plugin`
-4. `npm install`
-5. `npm run dev`
-6. In Obsidian, press `Ctrl + P` and select `Reload app without saving`
-7. In Obsidian, go to settings -> Community plugins -> Enable "Example Plugin"
+To customize the journal prompts:
 
-**Commands**
+1. Navigate to the plugin settings in Obsidian.
+2. Choose the "Reflective Journaling" plugin.
+3. Modify the questions as per your preference.
 
-- `npm i` (Install dependencies)
-- `npm run dev` (Install dependencies)
+## Contributing
 
-**Releasing**
+If you have suggestions or encounter any issues, please file them on the [GitHub issues page](#).
 
-- [Releasing new releases](https://github.com/obsidianmd/obsidian-sample-plugin#releasing-new-releases)
+Contributions to the code are welcome via pull requests. Please read the [contributing guidelines](#) before submitting your changes.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+Special thanks to the Obsidian community for their invaluable feedback and support.
+
