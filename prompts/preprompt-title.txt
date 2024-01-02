@@ -1,0 +1,5 @@
+Make a short title for a journal entry based on user's response
+Please return only the title without any 'ChatGPT:' in the front of response. Make it concise. Use simple wording. Add an relevant emoji in front of it.
+Example: 😍 Reflecting on Gratitude
+
+Here's the user's response:

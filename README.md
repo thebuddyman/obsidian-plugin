@@ -1,13 +1,10 @@
 # Reflective Journaling Plugin for Obsidian
 
-Reflective Journaling is a plugin for [Obsidian](https://obsidian.md/) designed to enhance your daily journaling experience. This plugin provides a structured approach to reflective journaling, prompting you with thought-provoking questions to guide your writing, both in the morning and evening.
+Reflective Journaling is a plugin for [Obsidian](https://obsidian.md/) designed to enhance your daily journaling experience. This plugin offers a structured approach to reflective journaling, providing thought-provoking questions to guide your writing, both in the morning, evening, or any moment you need.
 
 ## Features
 
-- **Morning Journal**: Start your day with gratitude and focus. Answer questions about your priorities, goals, and positive affirmations.
-- **Evening Journal**: Reflect on your day with guided questions that encourage introspection and learning.
-- **Random Reflection Prompts**: Receive random thought-provoking questions to enrich your journaling experience.
-- **Customization**: Tailor the journaling prompts to suit your personal reflection style.
+- **Journal Prompts**: Start your day with gratitude and focus. The prompts include questions about your priorities, goals, and positive affirmations.
 
 ## Installation
 
@@ -17,35 +14,25 @@ Reflective Journaling is a plugin for [Obsidian](https://obsidian.md/) designed 
 4. Click `Browse` and search for "Reflective Journaling."
 5. Install the plugin and enable it.
 
-Alternatively, you can manually install the plugin by downloading it from the [GitHub repository](#) and placing it in your `.obsidian/plugins` directory.
-
 ## Usage
 
 Once installed and enabled:
 
-- Click on the "Reflective Journaling" ribbon icon in Obsidian to start a new journal entry.
-- Choose between "Morning Journal" and "Evening Journal."
-- Answer the questions prompted in the template to begin your reflective journaling journey.
+- Click the "Reflective Journaling" ribbon icon in Obsidian to start a new journal entry.
+- Choose between Journal Prompts or Journaling with AI.
+- For Journal Prompts, select options based on your needs. Answer the questions in the template to begin your reflective journaling.
+- For Journaling with AI, input your feelings, and the AI will provide feedback with a quote, wisdom, and reflective questions.
 
-## Customization
+## Journaling with AI
 
-To customize the journal prompts:
+To use the AI feature, follow these steps:
 
-1. Navigate to the plugin settings in Obsidian.
-2. Choose the "Reflective Journaling" plugin.
-3. Modify the questions as per your preference.
-
-## Contributing
-
-If you have suggestions or encounter any issues, please file them on the [GitHub issues page](#).
-
-Contributions to the code are welcome via pull requests. Please read the [contributing guidelines](#) before submitting your changes.
+1. Visit the OpenAI website.
+2. Sign in or sign up.
+3. Navigate to the API section.
+4. Follow the prompts to generate an API key.
+5. Copy the key and paste it into the plugin settings.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-Special thanks to the Obsidian community for their invaluable feedback and support.
-

@@ -1,122 +1,182 @@
-[
-    {
-        "question": "What are my core values and how did I honor them today?",
-        "category": "Growth"
-    },
-    {
-        "question": "What strengths did I utilize today?",
-        "category": "Growth"
-    },
-    {
-        "question": "In what areas do I feel I need to grow, and what steps can I take to achieve that growth?",
-        "category": "Growth"
-    },
-    {
-        "question": "What emotions did I experience today, and what triggered them?",
-        "category": "Emotions"
-    },
-    {
-        "question": "How did I handle my emotions, and what could I have done differently?",
-        "category": "Emotions"
-    },
-    {
-        "question": "What lessons did my emotions teach me today?",
-        "category": "Emotions"
-    },
-    {
-        "question": "What accomplishments am I proud of in my career so far?",
-        "category": "Career"
-    },
-    {
-        "question": "What challenges am I facing at work, and what strategies can I employ to overcome them?",
-        "category": "Career"
-    },
-    {
-        "question": "How do my professional goals align with my personal values?",
-        "category": "Career"
-    },
-    {
-        "question": "How did I contribute to my relationships today?",
-        "category": "Relationships"
-    },
-    {
-        "question": "Were there any conflicts, and how did I handle them?",
-        "category": "Relationships"
-    },
-    {
-        "question": "What can I do to strengthen my relationships with others?",
-        "category": "Relationships"
-    },
-    {
-        "question": "What did I do today to take care of my physical and mental health?",
-        "category": "Wellbeing"
-    },
-    {
-        "question": "How does my current lifestyle support my overall well-being?",
-        "category": "Wellbeing"
-    },
-    {
-        "question": "What changes can I make to improve my health and happiness?",
-        "category": "Wellbeing"
-    },
-    {
-        "question": "What are my short-term and long-term goals?",
-        "category": "Goals"
-    },
-    {
-        "question": "What progress have I made towards these goals?",
-        "category": "Goals"
-    },
-    {
-        "question": "What obstacles are preventing me from reaching my goals, and how can I overcome them?",
-        "category": "Goals"
-    },
-    {
-        "question": "What new things did I learn today?",
-        "category": "Learning"
-    },
-    {
-        "question": "How have my recent experiences contributed to my knowledge and skills?",
-        "category": "Learning"
-    },
-    {
-        "question": "What areas am I curious about and want to explore further?",
-        "category": "Learning"
-    },
-    {
-        "question": "What am I grateful for today?",
-        "category": "Gratitude"
-    },
-    {
-        "question": "What positive experiences did I have today?",
-        "category": "Gratitude"
-    },
-    {
-        "question": "How can I cultivate a more positive mindset?",
-        "category": "Gratitude"
-    },
-    {
-        "question": "What important decisions did I make today, and how did I arrive at them?",
-        "category": "Decisions"
-    },
-    {
-        "question": "What problems did I encounter, and how did I solve them?",
-        "category": "Decisions"
-    },
-    {
-        "question": "How can I improve my decision-making and problem-solving skills?",
-        "category": "Decisions"
-    },
-    {
-        "question": "In what ways was I creative today?",
-        "category": "Creativity"
-    },
-    {
-        "question": "How can I foster more creativity in my life?",
-        "category": "Creativity"
-    },
-    {
-        "question": "What new ideas or projects am I excited about?",
-        "category": "Creativity"
-    }
-]
+{
+    "Morning Journal Questions": [
+        {
+            "question": "What worries are on my mind right now?",
+            "category": "Calm Worries"
+        },
+        {
+            "question": "How can I shift my focus from worries to solutions?",
+            "category": "Calm Worries"
+        },
+        {
+            "question": "How did I practice self-compassion today?",
+            "category": "Self Compassion"
+        },
+        {
+            "question": "What kind words can I offer to myself in challenging moments?",
+            "category": "Self Compassion"
+        },
+        {
+            "question": "What small joys did I experience today?",
+            "category": "Gratitude"
+        },
+        {
+            "question": "Who or what made me smile today?",
+            "category": "Gratitude"
+        },
+        {
+            "question": "How can I express my gratitude to others?",
+            "category": "Gratitude"
+        },
+        {
+            "question": "What new approaches can I try in my daily tasks?",
+            "category": "Creativity"
+        },
+        {
+            "question": "How can I encourage creative thinking in my environment?",
+            "category": "Creativity"
+        },
+        {
+            "question": "What inspires me to think outside the box?",
+            "category": "Creativity"
+        },
+        {
+            "question": "What moments today did I feel most present?",
+            "category": "Mindfulness"
+        },
+        {
+            "question": "How can I incorporate mindful practices into my daily routine?",
+            "category": "Mindfulness"
+        },
+        {
+            "question": "What did I notice today that I usually overlook?",
+            "category": "Mindfulness"
+        },
+        {
+            "question": "What are three goals you have for this month? Break down the steps needed to achieve each goal.",
+            "category": "Planning"
+        },
+        {
+            "question": "Create a vision board for your long-term goals. Describe the images and symbols you would include.",
+            "category": "Planning"
+        },
+        {
+            "question": "Reflect on a past successful planning experience. What strategies did you use, and how can you apply them to current goals?",
+            "category": "Planning"
+        },
+        {
+            "question": "Write about a time when your planning efforts didn't go as expected. What did you learn from this experience?",
+            "category": "Planning"
+        },
+        {
+            "question": "Explore your daily routines and identify areas where better planning could improve your productivity and well-being.",
+            "category": "Planning"
+        },
+        {
+            "question": "What's a decision you're currently contemplating? List its pros and cons, and consider the potential outcomes.",
+            "category": "Decision Making"
+        },
+        {
+            "question": "Imagine you have a trusted advisor. Write a dialogue between you and this advisor, discussing a decision you need to make.",
+            "category": "Decision Making"
+        },
+        {
+            "question": "Reflect on a past decision that had a significant positive impact on your life. What factors influenced your choice?",
+            "category": "Decision Making"
+        },
+        {
+            "question": "Describe a decision-making process that involves both intuition and rational analysis. How do these aspects complement each other?",
+            "category": "Decision Making"
+        },
+        {
+            "question": "Explore the concept of 'decision regret.' Write about a decision you regret and what you would do differently now, if anything.",
+            "category": "Decision Making"
+        }
+    ],
+    "Evening Journal Questions": [
+        {
+            "question": "What practical steps can I take to alleviate my current worries?",
+            "category": "Calm Worries"
+        },
+        {
+            "question": "In what ways can I be more forgiving and less critical of myself?",
+            "category": "Self Compassion"
+        },
+        {
+            "question": "What small joys did I experience today?",
+            "category": "Gratitude"
+        },
+        {
+            "question": "Who or what made me smile today?",
+            "category": "Gratitude"
+        },
+        {
+            "question": "How can I express my gratitude to others?",
+            "category": "Gratitude"
+        },
+        {
+            "question": "What new approaches can I try in my daily tasks?",
+            "category": "Creativity"
+        },
+        {
+            "question": "How can I encourage creative thinking in my environment?",
+            "category": "Creativity"
+        },
+        {
+            "question": "What inspires me to think outside the box?",
+            "category": "Creativity"
+        },
+        {
+            "question": "What moments today did I feel most present?",
+            "category": "Mindfulness"
+        },
+        {
+            "question": "How can I incorporate mindful practices into my daily routine?",
+            "category": "Mindfulness"
+        },
+        {
+            "question": "What did I notice today that I usually overlook?",
+            "category": "Mindfulness"
+        },
+        {
+            "question": "What are three goals you have for this month? Break down the steps needed to achieve each goal.",
+            "category": "Planning"
+        },
+        {
+            "question": "Create a vision board for your long-term goals. Describe the images and symbols you would include.",
+            "category": "Planning"
+        },
+        {
+            "question": "Reflect on a past successful planning experience. What strategies did you use, and how can you apply them to current goals?",
+            "category": "Planning"
+        },
+        {
+            "question": "Write about a time when your planning efforts didn't go as expected. What did you learn from this experience?",
+            "category": "Planning"
+        },
+        {
+            "question": "Explore your daily routines and identify areas where better planning could improve your productivity and well-being.",
+            "category": "Planning"
+        },
+        {
+            "question": "What's a decision you're currently contemplating? List its pros and cons, and consider the potential outcomes.",
+            "category": "Decision Making"
+        },
+        {
+            "question": "Imagine you have a trusted advisor. Write a dialogue between you and this advisor, discussing a decision you need to make.",
+            "category": "Decision Making"
+        },
+        {
+            "question": "Reflect on a past decision that had a significant positive impact on your life. What factors influenced your choice?",
+            "category": "Decision Making"
+        },
+        {
+            "question": "Describe a decision-making process that involves both intuition and rational analysis. How do these aspects complement each other?",
+            "category": "Decision Making"
+        },
+        {
+            "question": "Explore the concept of 'decision regret.' Write about a decision you regret and what you would do differently now, if anything.",
+            "category": "Decision Making"
+        }
+    ]
+}

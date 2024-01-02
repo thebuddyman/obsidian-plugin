@@ -1,0 +1,44 @@
+{
+    "menu": [
+        {
+            "title": "🌅 Morning Journal",
+            "category": "Morning"
+        },
+        {
+            "title": "🌃 Evening Journal",
+            "category": "Evening"
+        },
+        {
+            "title": "😌 Calm Worries",
+            "category": "Calm Worries"
+        },
+        {
+            "title": "🤍 Self Compassion",
+            "category": "Self Compassion"
+        },
+        {
+            "title": "💡 Creativity",
+            "category": "Creativity"
+        },
+        {
+            "title": "🌿 Gratitude",
+            "category": "Gratitude"
+        },
+        {
+            "title": "💫 Mindfulness",
+            "category": "Mindfulness"
+        },
+        {
+            "title": "🎯 Planning",
+            "category": "Planning"
+        },
+        {
+            "title": "🤔 Decision Making",
+            "category": "Decision Making"
+        },
+        {
+            "title": "📅 Weekly Wrap Up",
+            "category": "Weekly Wrap Up"
+        }
+    ]
+}

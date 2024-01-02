@@ -1,11 +1,11 @@
 {
-	"id": "reflective-journaling",
-	"name": "Reflective Journaling",
+	"id": "journaling",
+	"name": "Journaling",
 	"version": "1.0.0",
 	"minAppVersion": "0.12.0",
-	"description": "A plugin for Obsidian that enhances journaling experience with morning and evening reflection prompts, along with random thought-provoking questions.",
+	"description": "A plugin for Obsidian that enhances journaling experience",
 	"author": "Thomas Budiman",
-	"authorUrl": "https://your-website.com",
+	"authorUrl": "https://thebuddyman.com",
 	"repository": {
 	  "url": "https://github.com/the-buddyman/reflective-journaling",
 	  "branch": "master"

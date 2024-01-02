@@ -1,246 +1,116 @@
-[
-    {
-        "text": "Every morning we are born again. What we do today matters most.",
-        "author": "Buddha"
-    },
-    {
-        "text": "Write it on your heart that every day is the best day in the year.",
-        "author": "Ralph Waldo Emerson"
-    },
-    {
-        "text": "The only way to do great work is to love what you do.",
-        "author": "Steve Jobs"
-    },
-    {
-        "text": "The best way to predict your future is to create it.",
-        "author": "Abraham Lincoln"
-    },
-    {
-        "text": "The purpose of our lives is to be happy.",
-        "author": "Dalai Lama"
-    },
-    {
-        "text": "Life is what happens when you're busy making other plans.",
-        "author": "John Lennon"
-    },
-    {
-        "text": "You only live once, but if you do it right, once is enough.",
-        "author": "Mae West"
-    },
-    {
-        "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-        "author": "Winston Churchill"
-    },
-    {
-        "text": "Not how long, but how well you have lived is the main thing.",
-        "author": "Seneca"
-    },
-    {
-        "text": "In order to write about life first you must live it.",
-        "author": "Ernest Hemingway"
-    },
-    {
-        "text": "Life is either a daring adventure or nothing at all.",
-        "author": "Helen Keller"
-    },
-    {
-        "text": "The unexamined life is not worth living.",
-        "author": "Socrates"
-    },
-    {
-        "text": "Turn your wounds into wisdom.",
-        "author": "Oprah Winfrey"
-    },
-    {
-        "text": "The way to get started is to quit talking and begin doing.",
-        "author": "Walt Disney"
-    },
-    {
-        "text": "Your time is limited, don't waste it living someone else's life.",
-        "author": "Steve Jobs"
-    },
-    {
-        "text": "The mind is everything. What you think you become.",
-        "author": "Buddha"
-    },
-    {
-        "text": "Life is 10% what happens to us and 90% how we react to it.",
-        "author": "Charles R. Swindoll"
-    },
-    {
-        "text": "Life is really simple, but we insist on making it complicated.",
-        "author": "Confucius"
-    },
-    {
-        "text": "Life is a succession of lessons which must be lived to be understood.",
-        "author": "Ralph Waldo Emerson"
-    },
-    {
-        "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-        "author": "Dr. Seuss"
-    },
-    {
-        "text": "Life is made of ever so many partings welded together.",
-        "author": "Charles Dickens"
-    },
-    {
-        "text": "Your life does not get better by chance, it gets better by change.",
-        "author": "Jim Rohn"
-    },
-    {
-        "text": "Life is a long lesson in humility.",
-        "author": "James M. Barrie"
-    },
-    {
-        "text": "In three words I can sum up everything I've learned about life: it goes on.",
-        "author": "Robert Frost"
-    },
-    {
-        "text": "Life is either a great adventure or nothing.",
-        "author": "Helen Keller"
-    },
-    {
-        "text": "Keep smiling, because life is a beautiful thing and there's so much to smile about.",
-        "author": "Marilyn Monroe"
-    },
-    {
-        "text": "Life is short, and it is up to you to make it sweet.",
-        "author": "Sarah Louise Delany"
-    },
-    {
-        "text": "Life doesn't require that we be the best, only that we try our best.",
-        "author": "H. Jackson Brown Jr."
-    },
-    {
-        "text": "Life is what we make it, always has been, always will be.",
-        "author": "Grandma Moses"
-    },
-    {
-        "text": "Life's tragedy is that we get old too soon and wise too late.",
-        "author": "Benjamin Franklin"
-    },
-    {
-        "text": "The good life is one inspired by love and guided by knowledge.",
-        "author": "Bertrand Russell"
-    },
-    {
-        "text": "Life is a flower of which love is the honey.",
-        "author": "Victor Hugo"
-    },
-    {
-        "text": "Life shrinks or expands in proportion to one's courage.",
-        "author": "Anais Nin"
-    },
-    {
-        "text": "Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor.",
-        "author": "Sholom Aleichem"
-    },
-    {
-        "text": "Do not take life too seriously. You will never get out of it alive.",
-        "author": "Elbert Hubbard"
-    },
-    {
-        "text": "Life is a journey that must be traveled no matter how bad the roads and accommodations.",
-        "author": "Oliver Goldsmith"
-    },
-    {
-        "text": "Life is about making an impact, not making an income.",
-        "author": "Kevin Kruse"
-    },
-    {
-        "text": "The biggest adventure you can take is to live the life of your dreams.",
-        "author": "Oprah Winfrey"
-    },
-    {
-        "text": "Life is really simple, but men insist on making it complicated.",
-        "author": "Confucius"
-    },
-    {
-        "text": "Life is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.",
-        "author": "Lao Tzu"
-    },
-    {
-        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-        "author": "Nelson Mandela"
-    },
-    {
-        "text": "The greatest pleasure of life is love.",
-        "author": "Euripides"
-    },
-    {
-        "text": "Life is trying things to see if they work.",
-        "author": "Ray Bradbury"
-    },
-    {
-        "text": "May you live all the days of your life.",
-        "author": "Jonathan Swift"
-    },
-    {
-        "text": "Life is a game and true love is a trophy.",
-        "author": "Rufus Wainwright"
-    },
-    {
-        "text": "Life is a tragedy when seen in close-up, but a comedy in long-shot.",
-        "author": "Charlie Chaplin"
-    },
-    {
-        "text": "To live is the rarest thing in the world. Most people exist, that is all.",
-        "author": "Oscar Wilde"
-    },
-    {
-        "text": "Life is not a problem to be solved, but a reality to be experienced.",
-        "author": "Soren Kierkegaard"
-    },
-    {
-        "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-        "author": "Albert Einstein"
-    },
-    {
-        "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
-        "author": "Ralph Waldo Emerson"
-    },
-    {
-        "text": "Our lives begin to end the day we become silent about things that matter.",
-        "author": "Martin Luther King Jr."
-    },
-    {
-        "text": "Life is a succession of moments, to live each one is to succeed.",
-        "author": "Corita Kent"
-    },
-    {
-        "text": "Life is really about moving on.",
-        "author": "Oprah Winfrey"
-    },
-    {
-        "text": "Life is short, but it is wide. This too shall pass.",
-        "author": "Rebecca Wells"
-    },
-    {
-        "text": "Life is a spell so exquisite that everything conspires to break it.",
-        "author": "Emily Dickinson"
-    },
-    {
-        "text": "Life is a mirror and will reflect back to the thinker what he thinks into it.",
-        "author": "Ernest Holmes"
-    },
-    {
-        "text": "Life isn't about finding yourself. Life is about creating yourself.",
-        "author": "George Bernard Shaw"
-    },
-    {
-        "text": "Life is a ticket to the greatest show on earth.",
-        "author": "Martin H. Fischer"
-    },
-    {
-        "text": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
-        "author": "Maya Angelou"
-    },
-    {
-        "text": "The purpose of life is a life of purpose.",
-        "author": "Robert Byrne"
-    },
-    {
-        "text": "Life is a daring adventure or nothing at all.",
-        "author": "Helen Keller"
-    }
-]
+{
+    "Morning Quotes": [
+        {
+            "text": "Every morning we are born again. What we do today matters most.",
+            "author": "Buddha",
+            "category": "Mindfulness"
+        },
+        {
+            "text": "Write it on your heart that every day is the best day in the year.",
+            "author": "Ralph Waldo Emerson",
+            "category": "Gratitude"
+        },
+        {
+            "text": "The only way to do great work is to love what you do.",
+            "author": "Steve Jobs",
+            "category": "Creativity"
+        },
+        {
+            "text": "The best way to predict your future is to create it.",
+            "author": "Abraham Lincoln",
+            "category": "Planning"
+        },
+        {
+            "text": "Turn your wounds into wisdom.",
+            "author": "Oprah Winfrey",
+            "category": "Self Compassion"
+        },
+        {
+            "text": "I learned very early the difference between knowing the name of something and knowing something.",
+            "author": "Richard Feynman",
+            "category": "Learning"
+        },
+        {
+            "text": "Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.",
+            "author": "Richard Feynman",
+            "category": "Creativity"
+        },
+        {
+            "text": "Tell me and I forget, teach me and I may remember, involve me and I learn.",
+            "author": "Benjamin Franklin",
+            "category": "Learning"
+        },
+        {
+            "text": "Energy and persistence conquer all things.",
+            "author": "Benjamin Franklin",
+            "category": "Planning"
+        },
+        {
+            "text": "Vulnerability is the birthplace of innovation, creativity, and change.",
+            "author": "Brené Brown",
+            "category": "Creativity"
+        },
+        {
+            "text": "Leadership is not about being in charge. It's about taking care of those in your charge.",
+            "author": "Simon Sinek",
+            "category": "Decision Making"
+        }
+    ],
+    "Evening Quotes": [
+        {
+            "text": "Life is what happens when you're busy making other plans.",
+            "author": "John Lennon",
+            "category": "Mindfulness"
+        },
+        {
+            "text": "Your time is limited, don't waste it living someone else's life.",
+            "author": "Steve Jobs",
+            "category": "Decision Making"
+        },
+        {
+            "text": "Life is 10% what happens to us and 90% how we react to it.",
+            "author": "Charles R. Swindoll",
+            "category": "Calm Worries"
+        },
+        {
+            "text": "Life is really simple, but we insist on making it complicated.",
+            "author": "Confucius",
+            "category": "Mindfulness"
+        },
+        {
+            "text": "Life is a succession of lessons which must be lived to be understood.",
+            "author": "Ralph Waldo Emerson",
+            "category": "Self Compassion"
+        },
+        {
+            "text": "What I cannot create, I do not understand.",
+            "author": "Richard Feynman",
+            "category": "Creativity"
+        },
+        {
+            "text": "Science is the belief in the ignorance of experts.",
+            "author": "Richard Feynman",
+            "category": "Weekly Wrap Up"
+        },
+        {
+            "text": "Well done is better than well said.",
+            "author": "Benjamin Franklin",
+            "category": "Decision Making"
+        },
+        {
+            "text": "By failing to prepare, you are preparing to fail.",
+            "author": "Benjamin Franklin",
+            "category": "Planning"
+        },
+        {
+            "text": "Courage starts with showing up and letting ourselves be seen.",
+            "author": "Brené Brown",
+            "category": "Self Compassion"
+        },
+        {
+            "text": "People don't buy what you do; they buy why you do it.",
+            "author": "Simon Sinek",
+            "category": "Creativity"
+        }
+    ]
+}
