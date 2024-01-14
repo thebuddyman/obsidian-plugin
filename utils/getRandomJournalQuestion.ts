@@ -1,37 +1,22 @@
 import randomQuestions from "../data/random_questions.json";
 
 export function getRandomJournalQuestion(journalType?: string) {
-	let questions = [
-		...randomQuestions["Morning Journal Questions"],
-		...randomQuestions["Evening Journal Questions"],
-	];
+	// Flatten all questions into a single array
+	let questions = randomQuestions.flatMap((q) => q);
 
-	if (journalType === "Morning") {
-		questions = randomQuestions["Morning Journal Questions"];
-	} else if (journalType === "Evening") {
-		questions = randomQuestions["Evening Journal Questions"];
-	} else if (journalType) {
-		// Filter questions from both morning and evening based on the category
+	// Filter questions based on the provided journalType (category)
+	if (journalType) {
 		questions = questions.filter((q) => q.category === journalType);
-		if (questions.length === 0) {
-			console.warn(
-				"No questions available for the category:",
-				journalType,
-				"Using all questions."
-			);
-			questions = [
-				...randomQuestions["Morning Journal Questions"],
-				...randomQuestions["Evening Journal Questions"],
-			];
-		}
 	}
 
-	// If no journalType is provided, use all questions
-	if (!journalType) {
-		questions = [
-			...randomQuestions["Morning Journal Questions"],
-			...randomQuestions["Evening Journal Questions"],
-		];
+	// If no questions are found for the specified category, use all questions
+	if (questions.length === 0) {
+		console.warn(
+			"No questions available for the category:",
+			journalType,
+			"Using all questions."
+		);
+		questions = randomQuestions.flatMap((q) => q);
 	}
 
 	// Select a random question from the available questions

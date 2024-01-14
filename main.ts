@@ -60,7 +60,7 @@ export default class JournalingPlugin extends Plugin {
 
 			if (this.settings.apiKey && this.settings.apiKey.trim() !== "") {
 				menu.addItem((item) => {
-					item.setTitle("🤖 AI Journaling").onClick(() => {
+					item.setTitle("🤖 AI Journaling (Beta)").onClick(() => {
 						if (this.settings.apiKey) {
 							new HelpModal(
 								this.app,
@@ -150,8 +150,8 @@ class HelpModal extends Modal {
 
 	apiKey: string; // To store the API key
 	prePrompt: string;
-	prePromptQuote: string;
-	prePromptWisdom: string;
+	//prePromptQuote: string;
+	//prePromptWisdom: string;
 	prePromptQuestions: string;
 	prePromptTitle: string;
 
@@ -159,8 +159,8 @@ class HelpModal extends Modal {
 		super(app);
 		this.apiKey = apiKey; // Initialize the API key
 		this.prePrompt = ""; // Initialize prePrompt
-		this.prePromptQuote = ""; // Initialize prePrompt
-		this.prePromptWisdom = ""; // Initialize prePrompt
+		//this.prePromptQuote = ""; // Initialize prePrompt
+		//this.prePromptWisdom = ""; // Initialize prePrompt
 		this.prePromptQuestions = ""; // Initialize prePrompt
 	}
 
@@ -179,13 +179,13 @@ class HelpModal extends Modal {
 		try {
 			// Define the path to the pre-prompt file
 			//const prePromptFilePath = "preprompt.txt"; // Adjust path as needed
-			const prePromptFilePathQuote = this.getAbsolutePath(
-				"preprompt-quote.txt"
-			);
+			// const prePromptFilePathQuote = this.getAbsolutePath(
+			// 	"preprompt-quote.txt"
+			// );
 
-			const prePromptFilePathWisdom = this.getAbsolutePath(
-				"preprompt-wisdom.txt"
-			);
+			// const prePromptFilePathWisdom = this.getAbsolutePath(
+			// 	"preprompt-wisdom.txt"
+			// );
 			const prePromptFilePathQuestions = this.getAbsolutePath(
 				"preprompt-questions.txt"
 			);
@@ -197,12 +197,12 @@ class HelpModal extends Modal {
 			// this.prePrompt = await this.app.vault.adapter.read(
 			// 	prePromptFilePath
 			// );
-			this.prePromptQuote = await this.app.vault.adapter.read(
-				prePromptFilePathQuote
-			);
-			this.prePromptWisdom = await this.app.vault.adapter.read(
-				prePromptFilePathWisdom
-			);
+			// this.prePromptQuote = await this.app.vault.adapter.read(
+			// 	prePromptFilePathQuote
+			// );
+			// this.prePromptWisdom = await this.app.vault.adapter.read(
+			// 	prePromptFilePathWisdom
+			// );
 			this.prePromptQuestions = await this.app.vault.adapter.read(
 				prePromptFilePathQuestions
 			);
@@ -246,23 +246,23 @@ class HelpModal extends Modal {
 					return;
 				}
 
-				const quotePrompt = `${this.prePromptQuote}\n\n${userInput}`;
-				const wisdomPrompt = `${this.prePromptWisdom}\n\n${userInput}`;
-				const questionsPrompt = `${this.prePromptQuestions}\n\n${userInput}`;
+				// const quotePrompt = `${this.prePromptQuote}\n\n${userInput}`;
+				// const wisdomPrompt = `${this.prePromptWisdom}\n\n${userInput}`;
+				const questionsPrompt = `${this.prePromptQuestions}\n\n${userInput}\n`;
 				const TitlePrompt = `${this.prePromptTitle}\n\n${userInput}`;
 				// const combinedPrompt = `${this.prePrompt}\n\n${userInput}`;
 
 				try {
 					// Call ChatGPT with the formatted prompt
-					// const chatGPTResponse = await queryChatGPT(combinedPrompt, this.apiKey);
-					const chatGPTResponseQuote = await queryChatGPT(
-						quotePrompt,
-						this.apiKey
-					);
-					const chatGPTResponseWisdom = await queryChatGPT(
-						wisdomPrompt,
-						this.apiKey
-					);
+					//const chatGPTResponse = await queryChatGPT(combinedPrompt, this.apiKey);
+					// const chatGPTResponseQuote = await queryChatGPT(
+					// 	quotePrompt,
+					// 	this.apiKey
+					// );
+					// const chatGPTResponseWisdom = await queryChatGPT(
+					// 	wisdomPrompt,
+					// 	this.apiKey
+					// );
 					const chatGPTResponseQuestions = await queryChatGPT(
 						questionsPrompt,
 						this.apiKey
@@ -272,6 +272,8 @@ class HelpModal extends Modal {
 						this.apiKey
 					);
 
+					console.log("ChatGPT Response (Questions):", chatGPTResponseQuestions);
+
 					// Remove leading period or other invalid characters before JSON object starts
 					const validJSONString = chatGPTResponseQuestions
 						.trim()
@@ -280,11 +282,12 @@ class HelpModal extends Modal {
 					// Parse the corrected string to get the questions array
 					const questions = JSON.parse(validJSONString).Questions;
 
-					// console.log("ChatGPT Response (Questions):", questions);
-
 					// Combine user input and ChatGPT response
-					let journalContent = `${userInput} \n\n---\n\n >${chatGPTResponseQuote} \n\n`;
-					journalContent += `${chatGPTResponseWisdom} \n\n---\n\n`;
+					//let journalContent = `${userInput} \n\n---\n\n`;
+					// let journalContent = `${userInput} \n\n---\n\n >${chatGPTResponseQuote} \n\n`;
+					// journalContent += `${chatGPTResponseWisdom} \n\n---\n\n`;
+
+					let journalContent = `${userInput} \n\n---\n\n`;
 
 					// Format each question
 					questions.forEach((question: string, index: number) => {

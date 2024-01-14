@@ -1,7 +1,7 @@
 // Assuming this is in chatGptApi.ts
 
 async function queryChatGPT(prompt: string, apiKey: string): Promise<string> {
-	const model = "text-davinci-003"; // Adjust the model as needed
+	const model = "gpt-3.5-turbo-instruct"; // Adjust the model as needed
 	console.log("Using API Key:", apiKey);
 
 

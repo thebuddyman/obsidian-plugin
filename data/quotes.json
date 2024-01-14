@@ -51,9 +51,79 @@
             "category": "Creativity"
         },
         {
+            "text": "Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.",
+            "author": "Laotzu",
+            "category": "Self Compassion"
+        },
+        {
+            "text": "Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.",
+            "author": "Sun Tzu",
+            "category": "Decision Making"
+        },
+        {
+            "text": "The greatest achievers are those who always stay focused on their goals and are consistent in their efforts.",
+            "author": "Adam Grant",
+            "category": "Planning"
+        },
+        {
+            "text": "Change is painful, but nothing is as painful as staying stuck somewhere you don't belong.",
+            "author": "Dan Pink",
+            "category": "Self Compassion"
+        },
+        {
             "text": "Leadership is not about being in charge. It's about taking care of those in your charge.",
             "author": "Simon Sinek",
             "category": "Decision Making"
+        },
+        {
+            "text": "Owning our story and loving ourselves through that process is the bravest thing we'll ever do.",
+            "author": "Brené Brown",
+            "category": "Self Compassion"
+        },
+        {
+            "text": "The most terrifying thing is to accept oneself completely.",
+            "author": "Carl Jung",
+            "category": "Self Compassion"
+        },
+        {
+            "text": "Talk to yourself like someone you love.",
+            "author": "Brené Brown",
+            "category": "Self Compassion"
+        },
+        {
+            "text": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+            "author": "Buddha",
+            "category": "Self Compassion"
+        },
+        {
+            "text": "Loving yourself isn't vanity. It is sanity.",
+            "author": "Katrina Mayer",
+            "category": "Self Compassion"
+        },
+        {
+            "text": "The relationship with yourself sets the tone for every other relationship you have.",
+            "author": "Jane Travis",
+            "category": "Self Compassion"
+        },
+        {
+            "text": "Self-compassion is simply giving the same kindness to ourselves that we would give to others.",
+            "author": "Christopher Germer",
+            "category": "Self Compassion"
+        },
+        {
+            "text": "You can't really be present for the people in your life if you can't take care of yourself.",
+            "author": "Kerry Washington",
+            "category": "Self Compassion"
+        },
+        {
+            "text": "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
+            "author": "Melody Beattie",
+            "category": "Gratitude"
+        },
+        {
+            "text": "The root of joy is gratefulness.",
+            "author": "David Steindl-Rast",
+            "category": "Gratitude"
         }
     ],
     "Evening Quotes": [
@@ -61,6 +131,26 @@
             "text": "Life is what happens when you're busy making other plans.",
             "author": "John Lennon",
             "category": "Mindfulness"
+        },
+        {
+            "text": "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.",
+            "author": "Adam Grant",
+            "category": "Creativity"
+        },
+        {
+            "text": "The successful warrior is the average man, with laser-like focus.",
+            "author": "Dan Pink",
+            "category": "Decision Making"
+        },
+        {
+            "text": "Focus on being productive instead of busy.",
+            "author": "Tim Ferriss",
+            "category": "Planning"
+        },
+        {
+            "text": "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
+            "author": "Laotzu",
+            "category": "Decision Making"
         },
         {
             "text": "Your time is limited, don't waste it living someone else's life.",
@@ -111,6 +201,126 @@
             "text": "People don't buy what you do; they buy why you do it.",
             "author": "Simon Sinek",
             "category": "Creativity"
+        },
+        {
+            "text": "Creativity is thinking up new things. Innovation is doing new things.",
+            "author": "Theodore Levitt",
+            "category": "Creativity"
+        },
+        {
+            "text": "The chief enemy of creativity is 'good' sense.",
+            "author": "Pablo Picasso",
+            "category": "Creativity"
+        },
+        {
+            "text": "To live a creative life, we must lose our fear of being wrong.",
+            "author": "Joseph Chilton Pearce",
+            "category": "Creativity"
+        },
+        {
+            "text": "Creativity involves breaking out of established patterns in order to look at things in a different way.",
+            "author": "Edward de Bono",
+            "category": "Creativity"
+        },
+        {
+            "text": "The creative adult is the child who survived.",
+            "author": "Ursula K. Le Guin",
+            "category": "Creativity"
+        },
+        {
+            "text": "An essential aspect of creativity is not being afraid to fail.",
+            "author": "Edwin Land",
+            "category": "Creativity"
+        },
+        {
+            "text": "Creativity is contagious, pass it on.",
+            "author": "Albert Einstein",
+            "category": "Creativity"
+        },
+        {
+            "text": "You can't use up creativity. The more you use, the more you have.",
+            "author": "Maya Angelou",
+            "category": "Creativity"
+        },
+        {
+            "text": "Every child is an artist. The problem is how to remain an artist once we grow up.",
+            "author": "Pablo Picasso",
+            "category": "Creativity"
+        },
+        {
+            "text": "Creativity is intelligence having fun.",
+            "author": "Albert Einstein",
+            "category": "Creativity"
+        },
+        {
+            "text": "Reflection is one of the most underused yet powerful tools for success.",
+            "author": "Richard Carlson",
+            "category": "Weekly Wrap Up"
+        },
+        {
+            "text": "We do not learn from experience... we learn from reflecting on experience.",
+            "author": "John Dewey",
+            "category": "Weekly Wrap Up"
+        },
+        {
+            "text": "The only real mistake is the one from which we learn nothing.",
+            "author": "Henry Ford",
+            "category": "Weekly Wrap Up"
+        },
+        {
+            "text": "Without reflection, we go blindly on our way, creating more unintended consequences, and failing to achieve anything useful.",
+            "author": "Margaret J. Wheatley",
+            "category": "Weekly Wrap Up"
+        },
+        {
+            "text": "Reflect upon your present blessings, of which every man has plenty; not on your past misfortunes, of which all men have some.",
+            "author": "Charles Dickens",
+            "category": "Weekly Wrap Up"
+        },
+        {
+            "text": "Life can only be understood backwards; but it must be lived forwards.",
+            "author": "Søren Kierkegaard",
+            "category": "Weekly Wrap Up"
+        },
+        {
+            "text": "Reflection is the lamp of the heart. If it departs, the heart will have no light.",
+            "author": "Abdullah ibn Alawi al-Haddad",
+            "category": "Weekly Wrap Up"
+        },
+        {
+            "text": "By three methods we may learn wisdom: First, by reflection, which is noblest; second, by imitation, which is easiest; and third by experience, which is the bitterest.",
+            "author": "Confucius",
+            "category": "Weekly Wrap Up"
+        },
+        {
+            "text": "Mistakes are always forgivable, if one has the courage to admit them.",
+            "author": "Bruce Lee",
+            "category": "Weekly Wrap Up"
+        },
+        {
+            "text": "Pause and remember – Nothing lasts forever. Better days are coming, but they will come faster with faith.",
+            "author": "Jennifer Young",
+            "category": "Weekly Wrap Up"
+        },
+        {
+            "text": "Gratitude is not only the greatest of virtues, but the parent of all others.",
+            "author": "Marcus Tullius Cicero",
+            "category": "Gratitude"
+        },
+        {
+            "text": "Gratitude is the fairest blossom which springs from the soul.",
+            "author": "Henry Ward Beecher",
+            "category": "Gratitude"
+        },
+        {
+            "text": "Let us be grateful to the people who make us happy; they are the charming gardeners who make our souls blossom.",
+            "author": "Marcel Proust",
+            "category": "Gratitude"
+        },
+        {
+            "text": "Gratitude is a powerful catalyst for happiness. It’s the spark that lights a fire of joy in your soul.",
+            "author": "Amy Collette",
+            "category": "Gratitude"
         }
     ]
 }

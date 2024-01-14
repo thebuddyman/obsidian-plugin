@@ -1,182 +1,258 @@
-{
-    "Morning Journal Questions": [
-        {
-            "question": "What worries are on my mind right now?",
-            "category": "Calm Worries"
-        },
-        {
-            "question": "How can I shift my focus from worries to solutions?",
-            "category": "Calm Worries"
-        },
-        {
-            "question": "How did I practice self-compassion today?",
-            "category": "Self Compassion"
-        },
-        {
-            "question": "What kind words can I offer to myself in challenging moments?",
-            "category": "Self Compassion"
-        },
-        {
-            "question": "What small joys did I experience today?",
-            "category": "Gratitude"
-        },
-        {
-            "question": "Who or what made me smile today?",
-            "category": "Gratitude"
-        },
-        {
-            "question": "How can I express my gratitude to others?",
-            "category": "Gratitude"
-        },
-        {
-            "question": "What new approaches can I try in my daily tasks?",
-            "category": "Creativity"
-        },
-        {
-            "question": "How can I encourage creative thinking in my environment?",
-            "category": "Creativity"
-        },
-        {
-            "question": "What inspires me to think outside the box?",
-            "category": "Creativity"
-        },
-        {
-            "question": "What moments today did I feel most present?",
-            "category": "Mindfulness"
-        },
-        {
-            "question": "How can I incorporate mindful practices into my daily routine?",
-            "category": "Mindfulness"
-        },
-        {
-            "question": "What did I notice today that I usually overlook?",
-            "category": "Mindfulness"
-        },
-        {
-            "question": "What are three goals you have for this month? Break down the steps needed to achieve each goal.",
-            "category": "Planning"
-        },
-        {
-            "question": "Create a vision board for your long-term goals. Describe the images and symbols you would include.",
-            "category": "Planning"
-        },
-        {
-            "question": "Reflect on a past successful planning experience. What strategies did you use, and how can you apply them to current goals?",
-            "category": "Planning"
-        },
-        {
-            "question": "Write about a time when your planning efforts didn't go as expected. What did you learn from this experience?",
-            "category": "Planning"
-        },
-        {
-            "question": "Explore your daily routines and identify areas where better planning could improve your productivity and well-being.",
-            "category": "Planning"
-        },
-        {
-            "question": "What's a decision you're currently contemplating? List its pros and cons, and consider the potential outcomes.",
-            "category": "Decision Making"
-        },
-        {
-            "question": "Imagine you have a trusted advisor. Write a dialogue between you and this advisor, discussing a decision you need to make.",
-            "category": "Decision Making"
-        },
-        {
-            "question": "Reflect on a past decision that had a significant positive impact on your life. What factors influenced your choice?",
-            "category": "Decision Making"
-        },
-        {
-            "question": "Describe a decision-making process that involves both intuition and rational analysis. How do these aspects complement each other?",
-            "category": "Decision Making"
-        },
-        {
-            "question": "Explore the concept of 'decision regret.' Write about a decision you regret and what you would do differently now, if anything.",
-            "category": "Decision Making"
-        }
-    ],
-    "Evening Journal Questions": [
-        {
-            "question": "What practical steps can I take to alleviate my current worries?",
-            "category": "Calm Worries"
-        },
-        {
-            "question": "In what ways can I be more forgiving and less critical of myself?",
-            "category": "Self Compassion"
-        },
-        {
-            "question": "What small joys did I experience today?",
-            "category": "Gratitude"
-        },
-        {
-            "question": "Who or what made me smile today?",
-            "category": "Gratitude"
-        },
-        {
-            "question": "How can I express my gratitude to others?",
-            "category": "Gratitude"
-        },
-        {
-            "question": "What new approaches can I try in my daily tasks?",
-            "category": "Creativity"
-        },
-        {
-            "question": "How can I encourage creative thinking in my environment?",
-            "category": "Creativity"
-        },
-        {
-            "question": "What inspires me to think outside the box?",
-            "category": "Creativity"
-        },
-        {
-            "question": "What moments today did I feel most present?",
-            "category": "Mindfulness"
-        },
-        {
-            "question": "How can I incorporate mindful practices into my daily routine?",
-            "category": "Mindfulness"
-        },
-        {
-            "question": "What did I notice today that I usually overlook?",
-            "category": "Mindfulness"
-        },
-        {
-            "question": "What are three goals you have for this month? Break down the steps needed to achieve each goal.",
-            "category": "Planning"
-        },
-        {
-            "question": "Create a vision board for your long-term goals. Describe the images and symbols you would include.",
-            "category": "Planning"
-        },
-        {
-            "question": "Reflect on a past successful planning experience. What strategies did you use, and how can you apply them to current goals?",
-            "category": "Planning"
-        },
-        {
-            "question": "Write about a time when your planning efforts didn't go as expected. What did you learn from this experience?",
-            "category": "Planning"
-        },
-        {
-            "question": "Explore your daily routines and identify areas where better planning could improve your productivity and well-being.",
-            "category": "Planning"
-        },
-        {
-            "question": "What's a decision you're currently contemplating? List its pros and cons, and consider the potential outcomes.",
-            "category": "Decision Making"
-        },
-        {
-            "question": "Imagine you have a trusted advisor. Write a dialogue between you and this advisor, discussing a decision you need to make.",
-            "category": "Decision Making"
-        },
-        {
-            "question": "Reflect on a past decision that had a significant positive impact on your life. What factors influenced your choice?",
-            "category": "Decision Making"
-        },
-        {
-            "question": "Describe a decision-making process that involves both intuition and rational analysis. How do these aspects complement each other?",
-            "category": "Decision Making"
-        },
-        {
-            "question": "Explore the concept of 'decision regret.' Write about a decision you regret and what you would do differently now, if anything.",
-            "category": "Decision Making"
-        }
-    ]
-}
+[
+    {
+        "question": "What challenge might I face today, and how can I approach it constructively?",
+        "category": "Morning"
+    },
+    {
+        "question": "What is one positive affirmation I can tell myself today?",
+        "category": "Morning"
+    },
+    {
+        "question": "What lesson can I carry from yesterday into today?",
+        "category": "Morning"
+    },
+    {
+        "question": "How can I make today slightly better than yesterday?",
+        "category": "Morning"
+    },
+    {
+        "question": "How did I handle challenges today, and what can I learn from that?",
+        "category": "Evening"
+    },
+    {
+        "question": "Who or what brought me joy today, and why?",
+        "category": "Evening"
+    },
+    {
+        "question": "What could I have done differently today, and why?",
+        "category": "Evening"
+    },
+    {
+        "question": "Did I make progress towards my goals today, and how?",
+        "category": "Evening"
+    },
+    {
+        "text": "You don't have to control your thoughts; you just have to stop letting them control you.",
+        "author": "Dan Millman",
+        "category": "Calm Worries"
+    },
+    {
+        "text": "Worry does not empty tomorrow of its sorrow. It empties today of its strength.",
+        "author": "Corrie ten Boom",
+        "category": "Calm Worries"
+    },
+    {
+        "text": "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.",
+        "author": "Benjamin Franklin",
+        "category": "Calm Worries"
+    },
+    {
+        "question": "What are some relaxation techniques that work for me, and how can I incorporate them into my routine?",
+        "category": "Calm Worries"
+    },
+    {
+        "question": "How have I successfully handled similar worries in the past?",
+        "category": "Calm Worries"
+    },
+    {
+        "question": "When did I last show resilience or strength in the face of difficulty?",
+        "category": "Self Compassion"
+    },
+    {
+        "question": "In what ways can I be more forgiving and less critical of myself?",
+        "category": "Self Compassion"
+    },
+    {
+        "question": "What does my inner critic often say, and how can I challenge these thoughts with compassion?",
+        "category": "Self Compassion"
+    },
+    {
+        "question": "What kind words would I offer to a friend in my situation, and how can I offer the same to myself?",
+        "category": "Self Compassion"
+    },
+    {
+        "question": "What small joys did I experience today?",
+        "category": "Gratitude"
+    },
+    {
+        "question": "Who or what made me smile today?",
+        "category": "Gratitude"
+    },
+    {
+        "question": "How can I express my gratitude to others?",
+        "category": "Gratitude"
+    },
+    {
+        "question": "Recall a past experience that brought you immense joy and gratitude. Describe it in detail.",
+        "category": "Gratitude"
+    },
+    {
+        "question": "What is something beautiful I witnessed today?",
+        "category": "Gratitude"
+    },
+    {
+        "question": "What am I good at, and how does it bring joy to my life?",
+        "category": "Gratitude"
+    },
+    {
+        "question": "What am I taking for granted that I can be more thankful for?",
+        "category": "Gratitude"
+    },
+    {
+        "question": "List five things in nature that you find beautiful and appreciate.",
+        "category": "Gratitude"
+    },
+    {
+        "question": "Write about a moment when you overcame a challenge, and express gratitude for your resilience.",
+        "category": "Gratitude"
+    },
+    {
+        "question": "How have my experiences shaped me into the person I am today?",
+        "category": "Gratitude"
+    },
+    {
+        "question": "What's an idea you've had recently that excited you? Explore it further and brainstorm ways to bring it to life.",
+        "category": "Creativity"
+    },
+    {
+        "question": "If you could create anything without limitations, what would it be? Describe it in vivid detail and imagine the impact it would have.",
+        "category": "Creativity"
+    },
+    {
+        "question": "What new approaches can I try in my daily tasks?",
+        "category": "Creativity"
+    },
+    {
+        "question": "How can I encourage creative thinking in my environment?",
+        "category": "Creativity"
+    },
+    {
+        "question": "What inspires me to think outside the box?",
+        "category": "Creativity"
+    },
+    {
+        "question": "If I could invent something that would make life easier, what would it be and how would it work?",
+        "category": "Creativity"
+    },
+    {
+        "question": "What would I do if I had unlimited resources and couldn't fail?",
+        "category": "Creativity"
+    },
+    {
+        "question": "Write a short story starting with 'The silence was broken by...'",
+        "category": "Creativity"
+    },
+    {
+        "question": "If I could have a conversation with a famous artist or inventor from the past, who would it be and what would I ask?",
+        "category": "Creativity"
+    },
+    {
+        "question": "Describe a mundane object in detail as if explaining it to someone from another planet.",
+        "category": "Creativity"
+    },
+    {
+        "question": "Create a new character for a book or movie: what are their traits, strengths, weaknesses, and story?",
+        "category": "Creativity"
+    },
+    {
+        "question": "If I could time travel to any era for inspiration, where would I go and what would I bring back?",
+        "category": "Creativity"
+    },
+    {
+        "question": "What moments today did I feel most present?",
+        "category": "Mindfulness"
+    },
+    {
+        "question": "How can I incorporate mindful practices into my daily routine?",
+        "category": "Mindfulness"
+    },
+    {
+        "question": "What moments today did I feel most present?",
+        "category": "Mindfulness"
+    },
+    {
+        "question": "How can I incorporate mindful practices into my daily routine?",
+        "category": "Mindfulness"
+    },
+    {
+        "question": "What did I notice today that I usually overlook?",
+        "category": "Mindfulness"
+    },
+    {
+        "question": "What did I notice today that I usually overlook?",
+        "category": "Mindfulness"
+    },
+    {
+        "question": "What are five things you can see, hear, or feel right now? Write about your sensory experiences in this moment.",
+        "category": "Mindfulness"
+    },
+    {
+        "question": "Reflect on a moment today when you felt fully present. What were you doing, and how did it make you feel?",
+        "category": "Mindfulness"
+    },
+    {
+        "question": "Write a gratitude list from a mindful perspective, focusing on the present moment and what you appreciate right now.",
+        "category": "Mindfulness"
+    },
+    {
+        "question": "Reflect on a past successful planning experience. What strategies did you use, and how can you apply them to current goals?",
+        "category": "Planning"
+    },
+    {
+        "question": "How have I made similar decisions in the past, and what were the outcomes?",
+        "category": "Decision Making"
+    },
+    {
+        "question": "How will I feel about this decision in a year's time?",
+        "category": "Decision Making"
+    },
+    {
+        "question": "Am I rushing into a decision, and if so, why?",
+        "category": "Decision Making"
+    },
+    {
+        "question": "How did I contribute to my personal growth this week?",
+        "category": "Weekly Wrap Up"
+    },
+    {
+        "question": "What are the positive habits I maintained or struggled with this week?",
+        "category": "Weekly Wrap Up"
+    },
+    {
+        "question": "What drained my energy this week, and how can I manage it better?",
+        "category": "Weekly Wrap Up"
+    },
+    {
+        "question": "In what ways did I step out of my comfort zone this week?",
+        "category": "Weekly Wrap Up"
+    },
+    {
+        "question": "How did I practice self-care this week, and what can I improve?",
+        "category": "Weekly Wrap Up"
+    },
+    {
+        "text": "Worry often gives a small thing a big shadow.",
+        "author": "Swedish Proverb",
+        "category": "Calm Worries"
+    },
+    {
+        "text": "The greatest mistake you can make in life is to be continually fearing you will make one.",
+        "author": "Elbert Hubbard",
+        "category": "Calm Worries"
+    },
+    {
+        "text": "Anxiety does not empty tomorrow of its sorrows, but only empties today of its strength.",
+        "author": "Charles Spurgeon",
+        "category": "Calm Worries"
+    },
+    {
+        "text": "If you want to conquer the anxiety of life, live in the moment, live in the breath.",
+        "author": "Amit Ray",
+        "category": "Calm Worries"
+    },
+    {
+        "text": "Worry is like a rocking chair: it gives you something to do but never gets you anywhere.",
+        "author": "Erma Bombeck",
+        "category": "Calm Worries"
+    }
+]

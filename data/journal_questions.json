@@ -20,10 +20,6 @@
         "category": "Morning"
     },
     {
-        "question": "How do my professional goals align with my personal values?",
-        "category": "Morning"
-    },
-    {
         "question": "What are three key things I learned today?",
         "category": "Evening"
     },
@@ -33,10 +29,6 @@
     },
     {
         "question": "What thoughts or worries am I holding onto that I need to let go of?",
-        "category": "Evening"
-    },
-    {
-        "question": "What emotions am I feeling right now that I can acknowledge and then release?",
         "category": "Evening"
     },
     {
@@ -76,11 +68,11 @@
         "category": "Weekly Wrap Up"
     },
     {
-        "question": "How well did I balance work, rest, and play this week?",
+        "question": "What am I grateful for this week?",
         "category": "Weekly Wrap Up"
     },
     {
-        "question": "What am I grateful for this week?",
+        "question": "How well did I balance work, rest, and play this week?",
         "category": "Weekly Wrap Up"
     },
     {
@@ -92,95 +84,55 @@
         "category": "Gratitude"
     },
     {
-        "question": "Recall a past experience that brought you immense joy and gratitude. Describe it in detail.",
+        "question": "What is one way I can spread positivity today?",
         "category": "Gratitude"
     },
     {
-        "question": "List five things in nature that you find beautiful and appreciate.",
-        "category": "Gratitude"
-    },
-    {
-        "question": "Write about a moment when you overcame a challenge, and express gratitude for your resilience.",
-        "category": "Gratitude"
-    },
-    {
-        "question": "What would you say to a friend in your situation? How can you apply this to yourself?",
+        "question": "What am I most proud of myself for today?",
         "category": "Self Compassion"
     },
     {
-        "question": "Reflect on a time when you were too hard on yourself. How can you practice self-compassion in similar situations?",
+        "question": "What are three things I am grateful for about myself?",
         "category": "Self Compassion"
     },
     {
-        "question": "Write a letter to your past self, offering understanding and compassion for the challenges you faced.",
+        "question": "How can I show myself patience and kindness today?",
         "category": "Self Compassion"
     },
     {
-        "question": "Describe three things you love about yourself, both internally and externally.",
-        "category": "Self Compassion"
-    },
-    {
-        "question": "Think of a mistake you made recently and write about how you can learn from it with self-compassion.",
-        "category": "Self Compassion"
-    },
-    {
-        "question": "What's an idea you've had recently that excited you? Explore it further and brainstorm ways to bring it to life.",
-        "category": "Creativity"
-    },
-    {
-        "question": "If you could create anything without limitations, what would it be? Describe it in vivid detail and imagine the impact it would have.",
-        "category": "Creativity"
-    },
-    {
-        "question": "Experiment with a new creative medium today, whether it's drawing, writing, or crafting, and write about your experience.",
-        "category": "Creativity"
-    },
-    {
-        "question": "Think of a time when you felt creatively blocked. What strategies can you use to overcome creative obstacles?",
-        "category": "Creativity"
-    },
-    {
-        "question": "Describe a place that inspires your creativity. What is it about that place that sparks your imagination?",
-        "category": "Creativity"
-    },
-    {
-        "question": "What are five things you can see, hear, or feel right now? Write about your sensory experiences in this moment.",
-        "category": "Mindfulness"
-    },
-    {
-        "question": "Reflect on a moment today when you felt fully present. What were you doing, and how did it make you feel?",
-        "category": "Mindfulness"
-    },
-    {
-        "question": "Try a brief mindfulness meditation today and write about your thoughts and sensations during the practice.",
-        "category": "Mindfulness"
-    },
-    {
-        "question": "Explore a mindful eating experience. Write about the flavors, textures, and sensations of each bite.",
-        "category": "Mindfulness"
-    },
-    {
-        "question": "Write a gratitude list from a mindful perspective, focusing on the present moment and what you appreciate right now.",
-        "category": "Mindfulness"
-    },
-    {
-        "question": "What are three goals you have for this month? Break down the steps needed to achieve each goal.",
+        "question": "What are my primary goals for the upcoming week/month/year?",
         "category": "Planning"
     },
     {
-        "question": "Create a vision board for your long-term goals. Describe the images and symbols you would include.",
+        "question": "Why are these goals important to me?",
         "category": "Planning"
     },
     {
-        "question": "Reflect on a past successful planning experience. What strategies did you use, and how can you apply them to current goals?",
+        "question": "What steps am I taking to achieve these goals?",
         "category": "Planning"
     },
     {
-        "question": "Write about a time when your planning efforts didn't go as expected. What did you learn from this experience?",
+        "question": "What challenges might I encounter in achieving these goals?",
         "category": "Planning"
     },
     {
-        "question": "Explore your daily routines and identify areas where better planning could improve your productivity and well-being.",
+        "question": "Who or what can support me in reaching these goals?",
+        "category": "Planning"
+    },
+    {
+        "question": "Are there any habits I need to develop to support my plans?",
+        "category": "Planning"
+    },
+    {
+        "question": "What does success look like for each of my goals?",
+        "category": "Planning"
+    },
+    {
+        "question": "How will I reward myself for making progress towards my goals?",
+        "category": "Planning"
+    },
+    {
+        "question": "How do I feel about the plans I have set for myself?",
         "category": "Planning"
     },
     {
@@ -188,19 +140,23 @@
         "category": "Decision Making"
     },
     {
-        "question": "Imagine you have a trusted advisor. Write a dialogue between you and this advisor, discussing a decision you need to make.",
+        "question": "What are my initial feelings towards each option, and why do I feel this way?",
         "category": "Decision Making"
     },
     {
-        "question": "Reflect on a past decision that had a significant positive impact on your life. What factors influenced your choice?",
+        "question": "What facts and information am I basing my decision on?",
         "category": "Decision Making"
     },
     {
-        "question": "Describe a decision-making process that involves both intuition and rational analysis. How do these aspects complement each other?",
+        "question": "Who will be affected by my decision, and how?",
         "category": "Decision Making"
     },
     {
-        "question": "Explore the concept of 'decision regret.' Write about a decision you regret and what you would do differently now, if anything.",
+        "question": "How does this decision align with my long-term goals and values?",
+        "category": "Decision Making"
+    },
+    {
+        "question": "What is the worst that could happen, and how could I handle it?",
         "category": "Decision Making"
     }
 ]
